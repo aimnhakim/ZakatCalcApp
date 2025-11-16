@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ZakatCalcApp</string>
+
+    <!-- Input Hints -->
+    <string name="hint_weight">Weight (gram)</string>
+    <string name="hint_price">Current Gold Price (RM/gram)</string>
+    <string name="btn_calculate">Calculate Zakat</string>
+
+    <!-- Gold Types -->
+    <string-array name="gold_types">
+        <item>Keep (85g)</item>
+        <item>Wear (200g)</item>
+    </string-array>
+
+    <!-- Output -->
+    <string name="total_value">Total Gold Value: RM %.2f</string>
+    <string name="payable_value">Zakat Payable Value: RM %.2f</string>
+    <string name="total_zakat">Total Zakat (2.5%%): RM %.2f</string>
+
+    <!-- ===================== ABOUT SCREEN STRINGS ===================== -->
+    <string name="about_title">About ZakatCalcApp</string>
+    <string name="about_fullname">Full Name: MUHAMMAD AIMAN HAKIM BIN MOHD BASRI</string>
+    <string name="about_student_no">Student No: 2024665802</string>
+    <string name="about_programme">Programme: ICT602</string>
+    <string name="about_source_code_title">Source Code &amp; Demo:</string>
+    <string name="github_url">https://github.com/aimnhakim</string>
+    <string name="about_copyright">© 2025 Aiman Hakim. All rights reserved.</string>
+    <!-- ================================================================ -->
+
+</resources>

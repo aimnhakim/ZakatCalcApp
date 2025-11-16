@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Warna utama aplikasi (mungkin sama atau sedikit lebih cerah) -->    <color name="gold_primary">#FFC107</color>
+
+    <!-- Warna latar belakang (gelap) -->
+    <color name="light_bg">#121212</color>
+
+    <!-- Warna teks dan garisan -->
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="textColorSecondary">#B3FFFFFF</color>
+    <color name="outlineColor">#8A8A8A</color>
+</resources>

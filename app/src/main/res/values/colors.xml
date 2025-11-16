@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Warna utama aplikasi -->
+    <color name="gold_primary">#FFC107</color>
+
+    <!-- Warna latar belakang (terang) -->
+    <color name="light_bg">#FFFDE7</color>
+
+    <!-- Warna teks dan garisan -->
+    <color name="textColorPrimary">#000000</color>
+    <color name="textColorSecondary">#8A000000</color>
+    <color name="outlineColor">#808080</color>
+
+    <!-- Warna asas -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

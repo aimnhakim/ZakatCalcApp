@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema asas aplikasi (Mod Terang / Light Mode) -->
+    <style name="Base.Theme.ZakatCalcApp" parent="Theme.Material3.DayNight"> <!-- .NoActionBar telah dibuang -->
+        <!-- Warna utama -->
+        <item name="colorPrimary">@color/gold_primary</item>
+
+        <!-- Sesuaikan warna status bar (bar di bahagian paling atas skrin) -->
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+    </style>
+
+    <style name="Theme.ZakatCalcApp" parent="Base.Theme.ZakatCalcApp" />
+</resources>
